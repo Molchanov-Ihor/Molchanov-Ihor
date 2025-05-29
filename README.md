@@ -1,9 +1,12 @@
-### Greetings ! My name is Igor, I work as a back-end python developer. I love programming and learning something new in the IT world
+### <h1 align="center">✋ My name is Igor</h1>
 
-- 🌱 I’m current middle python developer
-- 📫 How to find me:
-    - <a href='https://instagram.com/purple_evoix/'>Instagram</a>
-    - <a href='https://www.linkedin.com/in/ihor-molchanov/'>LinkedIn</a>
+[//]: # (- 🌱 I’m current middle python developer)
+
+[//]: # (- 📫 How to find me:)
+
+[//]: # (    - <a href='https://instagram.com/purple_evoix/'>Instagram</a>)
+
+[//]: # (    - <a href='https://www.linkedin.com/in/ihor-molchanov/'>LinkedIn</a>)
 
 ###
 
