@@ -39,8 +39,8 @@
       <br>MySQL
     </td>
     <td align="center" width="88">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>MongoDB
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/> </a>
+      <br>AWS
     </td>
     <td align="center" width="88">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/></a>
@@ -93,3 +93,4 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=molchanov-ihor.molchanov-ihor&"  />
 </div>
+
