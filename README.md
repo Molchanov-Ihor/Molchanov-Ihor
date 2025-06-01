@@ -1,10 +1,10 @@
 <h1 align="center"> ✋ My name is Igor</h1>
 
-<div align="center">
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MIgor28)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/purple_evoix/)
 [![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-molchanov/)
-</div>
+
 <h3 align="left">🛠 Technologies & Tools:</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
