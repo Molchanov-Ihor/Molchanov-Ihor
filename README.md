@@ -68,7 +68,7 @@
       <br>Docker
     </td>
     <td align="center" width="88">
-      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
+      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="rabbitmq" width="40" height="40"/> </a>
       <br>Pandas
     </td>
     <td align="center" width="88">
