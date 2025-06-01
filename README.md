@@ -9,24 +9,15 @@
   </a>
 </div>
 
-<h3 align="left">🛠 Technologies:</h3>
+<h3 align="left">🛠 Technologies & Tools:</h3>
 
 ###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,python,django,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,python,django,docker,postgres,pycharm,vscode" />
   </a>
 </p>
 
-###
-<h3 align="left">🛠 IDE:</h3>
-
-###
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
-  </a>
-</p>
 
 ###
 <h3 align="left">Guests counter:</h3>
